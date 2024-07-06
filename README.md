@@ -1,6 +1,6 @@
-# Weather App
+# Weather Forcast
 
-The Weather App is a Flutter application that provides current weather information for your geolocated city and allows you to search for weather data in other cities. Upon opening the app, it fetches and displays the weather information for the user's current location. Users can search for other cities using the search bar, and the app will display the weather data for the searched cities in a horizontally scrollable PageView.
+The Weather Forcast is a Flutter application that provides current weather information for your geolocated city and allows you to search for weather data in other cities. Upon opening the app, it fetches and displays the weather information for the user's current location. Users can search for other cities using the search bar, and the app will display the weather data for the searched cities in a horizontally scrollable PageView.
 
 # Features
 
@@ -54,8 +54,8 @@ flutter run
 - **http**: A Flutter package for making HTTP requests.
 
 ## Screenshots
-<img src="https://github.com/Vishesh-panghal/weather_app/assets/76419786/6eb9ac11-084c-4f83-8356-3b9cb1d296d3" width="50%" height="30%">
-<img src="https://github.com/Vishesh-panghal/weather_app/assets/76419786/daccd56a-0b45-4f2a-a724-da6117da181f" width="50%" height="30%">
+<img src="https://github.com/Vishesh-panghal/weather_forcast/assets/76419786/13f5fe6f-2773-4dd3-b4ab-ae1b5e204fd8" width="50%" height="30%">
+<img src="https://github.com/Vishesh-panghal/weather_forcast/assets/76419786/098e1985-9329-4e64-90ca-238a84d672cf" width="50%" height="30%">
 
 ## Author
 
